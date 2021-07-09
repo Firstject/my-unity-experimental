@@ -1,4 +1,6 @@
 # Roll A TROLLING FACE
+![trolling face image](https://icon-library.com/images/troll-face-icon/troll-face-icon-4.jpg)
+
 Roll A TROLLING FACE is a side-view platformer game which features comedy trolling environments similar to [Trap Adventure 2](https://en.wikipedia.org/wiki/Trap_Adventure_2). This game is based on a Unity Learn project called ["Roll a Ball"](https://learn.unity.com/project/roll-a-ball).
 
 # Project Scope
