@@ -1,5 +1,5 @@
 # My Unity Experimental Project
-A learning project where every possibilities are made in one project.
+An educational project with mixed topics in one project made with Unity.
 
 # Project Scope
 My purpose is to learn things from unity and add things I've discovered in one project. The types of learning are separately kept into separating scene.
